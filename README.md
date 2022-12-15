@@ -1,1 +1,1 @@
-# sfml_pong
+# Mandelbrot
